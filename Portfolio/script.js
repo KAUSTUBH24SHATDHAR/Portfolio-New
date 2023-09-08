@@ -40,8 +40,8 @@ $('html, body').animate({
 document.addEventListener('visibilitychange',
 function(){
 if(document.visibilityState === "visible"){
-document.title = "Portfolio | Shikha Chaturvedi";
-$("#favicon").attr("href","assests/images/favicon.png");
+document.title = "Portfolio | Kaustubh Shatdhar";
+$("#favicon").attr("href","assests/images/pngimg.png");
 }
 else {
 document.title = "Come Back To Portfolio";
